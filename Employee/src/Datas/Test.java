@@ -13,6 +13,10 @@ int a=100;
 		System.out.println(++a);
 		System.out.println(--a);
 		
+		for(int i=0;i<=10;i++)
+		{
+			System.out.println(i);
+		}
 		
 		
 		
